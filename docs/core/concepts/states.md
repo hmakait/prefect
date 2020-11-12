@@ -131,7 +131,7 @@ If an upstream task is `Skipped` and a task has `skip_on_upstream_skip=True` (th
 
 ## Special task state transitions
 
-Tasks also have more some unusual but important state transition patterns.
+Tasks also have some more unusual but important state transition patterns.
 
 ### Pause transition (while running)
 
